@@ -23,7 +23,7 @@
       ],
       "outArguments": [
         {
-          "textMessageProcessed": ""
+          "result": ""
         }
       ],
       "url": "https://mc2kn4smpcvy91rcz9tr017qlhl4.pub.sfmc-content.com/2ohfmk12j0s"
@@ -78,7 +78,7 @@
         ],
         "outArguments": [
           {
-            "textMessageProcessed": {
+            "result": {
               "dataType": "Text",
               "direction": "out",
               "access": "visible"
